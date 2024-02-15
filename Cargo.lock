@@ -1983,6 +1983,7 @@ dependencies = [
  "fs_extra",
  "fuel-asm",
  "hex",
+ "home",
  "serde",
  "serde_json",
  "sway-core",

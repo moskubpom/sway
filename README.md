@@ -24,7 +24,7 @@ This section is for developing the Sway compiler and toolchain. For developing c
 Sway is built in Rust. To begin, install the Rust toolchain following instructions at <https://www.rust-lang.org/tools/install>. Then configure your Rust toolchain to use Rust `stable`:
 
 ```sh
-rustup default stable
+rustup defaults stable
 ```
 
 If not already done, add the Cargo bin directory to your `PATH` by adding the following line to `~/.profile` and restarting the shell session.
